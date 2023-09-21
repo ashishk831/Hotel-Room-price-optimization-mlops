@@ -78,6 +78,6 @@ We can run two pipelines as follows:
 * The continuous deployment pipeline:
 ``python run_deployment.py``
 ## Demo Streamlit App
-There is a live demo of this project using Streamlit which you can find here. It takes some input features for the product and predicts the customer satisfaction rate using the latest trained models. If you want to run this Streamlit app in your local system, you can run the following command:-\
+There is a live demo of this project using Streamlit which you can find here. It takes some input features for the product and predicts the customer satisfaction rate using the latest trained models. If you want to run this Streamlit app in your local system, you can run the following command:
 
 ``streamlit run streamlit_app.py``
