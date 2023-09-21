@@ -1,5 +1,6 @@
 # Hotel-Room-price-optimization-mlops
 
+
 ## Introduction
 In today's hyper-competative market getting a customer is a very challenging, setting the right price for hotel rooms is very important.This project focuses on hotel rooms price optimization using machine learning techniques to predict the right price for hotel rooms. This is a crucial part of developing dynamic pricing strategies, leading to increased room booking and customer satisfaction.
 
